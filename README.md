@@ -17,7 +17,7 @@
 * При прохождении через спрайт, снимается HP
 * Анимированный выстрел из оружия
 
-<img src="https://github.com/kozarezov/Cub3D/screenshot.bmp" width="800">  
+<img src="https://github.com/kozarezov/Cub3D/blob/main/screenshot.bmp" width="800">  
 
 ## Управление
 * Вперед - W
